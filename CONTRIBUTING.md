@@ -1,15 +1,13 @@
-# What
+# How to add your chosen repository
 
-A collection of flask web application projects for IT6 Final hands-on activity
-this is to lessen duplication of data models, and filter system titles
+## Format for Adding Your data model
+Add projectname & URL of your chosen project to `project_list.md` using this format:
 
-## How to Submit Your chosen title/data-model
-1. Fork this repository
-2. Add your chosen python/flash web application from [github](https://github.com/)  then add your entry to `project_list.md`, follow the format of the previous entries
-3. Create a Pull Request
-4. Wait for review and approval
+[System name] - [student name] [github repository URL] [your email address]
 
-## Guidelines
-- One title per student
-- Follow the format in CONTRIBUTING.md
-- No duplicate system (see the original repo. first-come-first-serve basis)
+## Steps to Submit
+1. Fork the repository
+2. Create a new branch 
+3. Add your system title to [project_list.md] (do not delete existing contents ) following the format above
+4. Create Pull Request
+

@@ -3,7 +3,7 @@
 ## Format for Adding Your data model
 Add projectname & URL of your chosen project to `project_list.md` using this format:
 
-[System name] - [student name] [github repository URL] [your email address]
+[System name](original github/gitlab system repository URL) - [student name](cloned github repository URL, points to your repository) [your email address]
 
 ## Steps to Submit
 1. Fork the repository

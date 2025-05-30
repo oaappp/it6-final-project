@@ -5,4 +5,5 @@
 [Inventory-Manager](https://github.com/marination/Inventory-Manager.git) - cloned into [Eli Karl Arnejo's Repository](https://github.com/ihlay/Inventory-Manager.git) - [block 2]  
 [Flask-ToDo-App](https://github.com/patrickloeber/flask-todo.git) - cloned into [Alliah Mahilum's Repository](https://github.com/alliah2025/flask-todo.git) [Block 2]  
 [Task-Manager](https://github.com/clamytoe/Task-Manager) - cloned into [Allen Glenn F. Fernandez's Repository](https://github.com/FernandezCorporate/Task-Manager) - [block 2]
+
 [flask-boilerplate](https://github.com/realpython/flask-boilerplate) - cloned into [Jay Alvin Campos's Repository](https://github.com/yaj-camps/flask-boilerplate) - [block 2]

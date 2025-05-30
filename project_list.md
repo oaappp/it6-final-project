@@ -9,4 +9,5 @@
 [flask-boilerplate](https://github.com/realpython/flask-boilerplate) - cloned into [Jay Alvin Campos's Repository](https://github.com/yaj-camps/flask-boilerplate) - [block 2]  
 [Student-Database-Management-System-using-Flask](https://github.com/mounigopisetti1162/Student-Database-Management-System-using-Flask-main) - cloned into 
 [Janry Cedie Sayang's Repository](https://github.com/JanryCedie/Student-Database-Management-System-using-Flask-main) - [block 2]  
-[Web-based-SSIS](https://github.com/edenroseFR/Web-based-SSIS) - cloned into [Miko R. Patindol's Repository](https://github.com/Irigitigit/Web-based-SSIS) - [block 2]
+[Web-based-SSIS](https://github.com/edenroseFR/Web-based-SSIS) - cloned into [Miko R. Patindol's Repository](https://github.com/Irigitigit/Web-based-SSIS) - [block 2]  
+[Books_Crud_Flask](https://github.com/CliveCullen/crud_flask.git) - cloned into [Amy Almerida's Repository](https://github.com/akosimia123/Books_crud_flask.git) - [block 2]  

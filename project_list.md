@@ -8,4 +8,5 @@
 [flaskr-tdd](https://github.com/mjhea0/flaskr-tdd) - cloned into [Hans F. MAgalaman's Repository](https://github.com/Hansyel-droid/flaskr-tdd) - [block 2]  
 [flask-boilerplate](https://github.com/realpython/flask-boilerplate) - cloned into [Jay Alvin Campos's Repository](https://github.com/yaj-camps/flask-boilerplate) - [block 2]  
 [Student-Database-Management-System-using-Flask](https://github.com/mounigopisetti1162/Student-Database-Management-System-using-Flask-main) - cloned into 
-[Janry Cedie Sayang's Repository](https://github.com/JanryCedie/Student-Database-Management-System-using-Flask-main) - [block 2]
+[Janry Cedie Sayang's Repository](https://github.com/JanryCedie/Student-Database-Management-System-using-Flask-main) - [block 2]  
+[Web-based-SSIS](https://github.com/edenroseFR/Web-based-SSIS) - cloned into [Miko R. Patindol's Repository](https://github.com/Irigitigit/Web-based-SSIS) - [block 2]

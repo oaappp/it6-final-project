@@ -16,3 +16,4 @@
 [PythonFlask](https://github.com/jahenvins/PythonFlask) - cloned into [Ace Carl A. Dela Cruz's Repository](https://github.com/asi0723/PythonFlask) - [Block 2]  
 [Guessing_game](https://github.com/helloflask/guess) -clone into [Jan Wilhelm R. Celedonio's Repository](https://github.com/mais16/guess/tree/ipt) [block 2]  
 [Contact-Book-Flask-App](https://github.com/RF-Fahad-Islam/Contact-Book-Flask-App.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/Contact-Book-Flask-App.git) - [block 2]  
+[Flask-Based-Note-Taking-Web-Application](https://github.com/Aparnakannan11/Flask-Based-Note-Taking-Web-Application) - cloned into [Mycka Valoroso's Repository](https://github.com/mycka4/Flask-Based-Note-Taking-Web-Application) - [Block 2]

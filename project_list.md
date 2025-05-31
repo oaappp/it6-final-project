@@ -12,4 +12,7 @@
 [Web-based-SSIS](https://github.com/edenroseFR/Web-based-SSIS) - cloned into [Miko R. Patindol's Repository](https://github.com/Irigitigit/Web-based-SSIS) - [block 2]  
 [Books_Crud_Flask](https://github.com/CliveCullen/crud_flask.git) - cloned into [Amy Almerida's Repository](https://github.com/akosimia123/Books_crud_flask.git) - [block 2]  
 [Web Development Flask App maintining the list of cafes](https://github.com/yogarajalakshmi-s/web-development-flask) - cloned into [Jazchiel Angelou C. Gomez's](https://github.com/jajazkie123/web-development-flask/tree/IPT_Final) - [block 2]  
-[Contact-Book-Flask-App](https://github.com/RF-Fahad-Islam/Contact-Book-Flask-App.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/Contact-Book-Flask-App.git) - [block 2]
+[Book-Management-System-using-Flask-and-SQLAlchemy](https://github.com/deep-priyo/Book-Management-System-using-Flask-and-SQLAlchemy) - cloned into [Zane Mc Lennon L. Valle's Repository](https://github.com/ZaneValle/Book-Management-System-using-Flask-and-SQLAlchemy.git) - [block 2]  
+[PythonFlask](https://github.com/jahenvins/PythonFlask) - cloned into [Ace Carl A. Dela Cruz's Repository](https://github.com/asi0723/PythonFlask) - [Block 2]  
+[Guessing_game] (https://github.com/helloflask/guess) -clone into [Jan Wilhelm R. Celedonio's Repository] (https://github.com/mais16/guess/tree/ipt) [block 2]  
+[Contact-Book-Flask-App](https://github.com/RF-Fahad-Islam/Contact-Book-Flask-App.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/Contact-Book-Flask-App.git) - [block 2]  

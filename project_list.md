@@ -1,7 +1,6 @@
 # System titles
 
 [Flask-Weather-App](https://github.com/jkaethee/Flask-Weather-App) - cloned into [Roy Cyril Dosado's Repository](https://github.com/rcdosado/Flask-Weather-App) - [block 1]  
-[Habit-tracker-app](https://github.com/soumitri27/habit-tracker-app) - cloned into [Michael Alfred J. Paalan's Repository](https://github.com/miksnmatch/habit-tracker-app)[Block 1]
 [Course Enrollment Flask System](https://github.com/siniya-johny/Course-Enrollment-Flask-Project) - cloned into [Beronio, Ralph Justine S.](https://github.com/flenggo/Course-Enrollment-Flask-Project) [Block 2]  
 [Inventory-Manager](https://github.com/marination/Inventory-Manager.git) - cloned into [Eli Karl Arnejo's Repository](https://github.com/ihlay/Inventory-Manager.git) - [block 2]  
 [Flask-ToDo-App](https://github.com/patrickloeber/flask-todo.git) - cloned into [Alliah Mahilum's Repository](https://github.com/alliah2025/flask-todo.git) [Block 2]  
@@ -25,4 +24,6 @@
 [School-Management-System](https://github.com/mostafa-hashhash/School-Managment-System.git) - cloned into [Sheena Marie C. Rivera's Repository](https://github.com/sheenaaam/final-drill-faults-api.git) [Block 1]  
 [Flask-Website-File-Management](https://github.com/MadeBySaints/Flask-Website) - cloned into [Princess Heaven Rica's Repository](https://github.com/hvnnnn/Flask-Website) [IT6 Block 1]  
 [User Management](https://github.com/rajat4665/Rest-api-with-CRUD-operation-using-Flask.git) - cloned into [Joshua Bacay](https://github.com/Weakcods/Rest-Api-Crud.git) - [block 1]  
-[Flask-Crud-Contact-app](https://github.com/FaztWeb/flask-crud-contacts-app.git) - cloned into [Gethel Jayce Clasara's Repository](https://github.com/clasarageth/flask-crud-contacts-app.git) - [block1] 
+[Flask-Crud-Contact-app](https://github.com/FaztWeb/flask-crud-contacts-app.git) - cloned into [Gethel Jayce Clasara's Repository](https://github.com/clasarageth/flask-crud-contacts-app.git) - [block1]  
+[Habit-tracker-app](https://github.com/soumitri27/habit-tracker-app) - cloned into [Michael Alfred J. Paalan's Repository](https://github.com/miksnmatch/habit-tracker-app)[Block 1]
+

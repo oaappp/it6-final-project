@@ -26,4 +26,5 @@
 [User Management](https://github.com/rajat4665/Rest-api-with-CRUD-operation-using-Flask.git) - cloned into [Joshua Bacay](https://github.com/Weakcods/Rest-Api-Crud.git) - [block 1]  
 [Flask-Crud-Contact-app](https://github.com/FaztWeb/flask-crud-contacts-app.git) - cloned into [Gethel Jayce Clasara's Repository](https://github.com/clasarageth/flask-crud-contacts-app.git) - [block1]  
 [Habit-tracker-app](https://github.com/soumitri27/habit-tracker-app) - cloned into [Michael Alfred J. Paalan's Repository](https://github.com/miksnmatch/habit-tracker-app)[Block 1]
-[our-cookbook](https://github.com/YamacYurtsever/our-cookbook) -cloned into [Randel John L. Velete's Repository](https://github.com/randeljohn0801/our-cookbook) - [block 2]
+[our-cookbook](https://github.com/YamacYurtsever/our-cookbook) -cloned into [Randel John L. Velete's Repository](https://github.com/randeljohn0801/our-cookbook) - [block 2]  
+[flask-music-streaming](https://github.com/CodeDem/flask-music-streaming.git) - cloned into [Kevin D. Docog's Repository](https://github.com/Kevin-Docog/flask-music-streaming.git) - [block 1]  

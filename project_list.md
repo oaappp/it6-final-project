@@ -23,3 +23,4 @@
 [MemerSala](https://github.com/NikhilCodes/MemerSala) - cloned into [Gadiel Zya T. Maramag](https://github.com/zyamaramag/MemerSala/tree/finalhands-on-rest-api-feature) - [Block 1]  
 [School-Management-System](https://github.com/mostafa-hashhash/School-Managment-System.git) - cloned into [Sheena Marie C. Rivera's Repository](https://github.com/sheenaaam/final-drill-faults-api.git) [Block 1]  
 [Flask-Website-File-Management](https://github.com/MadeBySaints/Flask-Website) - cloned into [Princess Heaven Rica's Repository](https://github.com/hvnnnn/Flask-Website) [IT6 Block 1]  
+[User Management](https://github.com/rajat4665/Rest-api-with-CRUD-operation-using-Flask.git) - cloned into [Joshua Bacay](https://github.com/Weakcods/Rest-Api-Crud.git) - [block 1] 

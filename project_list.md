@@ -17,9 +17,7 @@
 [Guessing_game](https://github.com/helloflask/guess) -clone into [Jan Wilhelm R. Celedonio's Repository](https://github.com/mais16/guess/tree/ipt)[block 2]  
 [Contact-Book-Flask-App](https://github.com/RF-Fahad-Islam/Contact-Book-Flask-App.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/Contact-Book-Flask-App.git) - [block 2]  
 
-[Flask-Based-Note-Taking-Web-Application](https://github.com/Aparnakannan11/Flask-Based-Note-Taking-Web-Application) - cloned into [Mycka Valoroso's Repository](https://github.com/mycka4/Flask-Based-Note-Taking-Web-Application) - [Block 2]
-[expense-tracker](https://github.com/hakiKhuva/expense-tracker.git) - cloned into [Alexander S. Oppura's Repository] (https://github.com/kayle-56-alex/finals-ipt.git) -[block 2]
-
+[Flask-Based-Note-Taking-Web-Application](https://github.com/Aparnakannan11/Flask-Based-Note-Taking-Web-Application) - cloned into [Mycka Valoroso's Repository](https://github.com/mycka4/Flask-Based-Note-Taking-Web-Application) - [Block 2]  
 [Flask-Based-Note-Taking-Web-Application](https://github.com/Aparnakannan11/Flask-Based-Note-Taking-Web-Application) - cloned into [Mycka Valoroso's Repository](https://github.com/mycka4/Flask-Based-Note-Taking-Web-Application) - [Block 2]  
 [URL-Shortener](https://github.com/ezhil56x/URL-Shortener.git) - cloned into [Frilyn Alicos' Repository](https://github.com/fraaays/URL-Shortener.git) - [block 2]  
 [comfyui-image-gallery](https://github.com/Smuzzies/comfyui_image_gallery.git) - cloned into [Karl Nuas' Repository](https://github.com/6shay9/comfyui_image_gallery-modified.git) - [Block1]  
@@ -32,3 +30,4 @@
 [Habit-tracker-app](https://github.com/soumitri27/habit-tracker-app) - cloned into [Michael Alfred J. Paalan's Repository](https://github.com/miksnmatch/habit-tracker-app)[Block 1]
 [our-cookbook](https://github.com/YamacYurtsever/our-cookbook) -cloned into [Randel John L. Velete's Repository](https://github.com/randeljohn0801/our-cookbook) - [block 2]  
 [flask-music-streaming](https://github.com/CodeDem/flask-music-streaming.git) - cloned into [Kevin D. Docog's Repository](https://github.com/Kevin-Docog/flask-music-streaming.git) - [block 1]  
+[expense-tracker](https://github.com/hakiKhuva/expense-tracker.git) - cloned into [Alexander S. Oppura's Repository] (https://github.com/kayle-56-alex/finals-ipt.git) -[block 2]

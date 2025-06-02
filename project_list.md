@@ -47,3 +47,4 @@
 [Flask-Todo-App](https://github.com/Demoen/To-Do-List-Python-Flask-App.git) - cloned into [Ian Jan Julito Aborot's Repository](https://github.com/Aborot11/To-Do-List-Python-Flask-App.git) - [block 2]  
 [Flask-inventory-app](https://github.com/shraite7/flask-inventory-app) - cloned into [Marco Dela Serna's Repository](https://github.com/sudo-marco-dev/FINAL-drill-IT6) - [block 3]  
 [Flask_Book_Library](https://github.com/MohammadSatel/Flask_Book_Library) - cloned into [Jonathan Fajiculay](https://github.com/jon-faji/Flask_Book_Library) [Block 1]  
+[microblog](https://github.com/grrctlpd/microblog.git) - cloned into [Gerrict Lapida](https://github.com/grrctlpd/microblog.git) [Block 1]  

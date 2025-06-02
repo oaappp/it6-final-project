@@ -48,3 +48,4 @@
 [Flask-inventory-app](https://github.com/shraite7/flask-inventory-app) - cloned into [Marco Dela Serna's Repository](https://github.com/sudo-marco-dev/FINAL-drill-IT6) - [block 3]  
 [Flask_Book_Library](https://github.com/MohammadSatel/Flask_Book_Library) - cloned into [Jonathan Fajiculay](https://github.com/jon-faji/Flask_Book_Library) [Block 1]  
 [microblog](https://github.com/grrctlpd/microblog.git) - cloned into [Gerrict Lapida](https://github.com/grrctlpd/microblog.git) [Block 1]  
+[flask-sample-app](https://github.com/ubc/flask-sample-app.git) - cloned into [Peter Joshua P. Pagunsan's Repository](https://github.com/myxed213/flask-sample-app.git) [block 3]  

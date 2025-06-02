@@ -36,4 +36,5 @@
 [Personal-Knowledge-Management-App](https://github.com/aks579/quilly) - cloned into [Shan Janssen Carl E. Herrera](https://github.com/ProCyanidis/quilly) - [block 1]  
 [task-master-flask](https://github.com/Halip26/task-master-flask) - cloned into [Lewin Rey Kurt Laguisma's Repository](https://github.com/lewww123/task-master-flask) - [block 1]  
 [example-flask-crud](https://github.com/gurkanakdeniz/example-flask-crud) - cloned into [Glenn Paul Bryan Dela Cruz's Repository](https://github.com/pooblobb/it6-final-project/tree/add-authors-api) [Block 1]  
-[Flask Todo List App](https://github.com/Ishan2608/Flask-Todo-List) - cloned into [Cymon Jezrel's Repository](https://github.com/zel-06/Flask-Todo-List-Features/tree/master) [IT6 Block 1]
+[Flask Todo List App](https://github.com/Ishan2608/Flask-Todo-List) - cloned into [Cymon Jezrel's Repository](https://github.com/zel-06/Flask-Todo-List-Features/tree/master) [IT6 Block 1]  
+[Python-Live-Chat-App](https://github.com/techwithtim/Python-Live-Chat-App) - cloned into [Charles Darwin G. Duerme's Repository](https://github.com/charlesss00/Python-Live-Chat-App.git) - [block 1]

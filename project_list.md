@@ -38,4 +38,5 @@
 [example-flask-crud](https://github.com/gurkanakdeniz/example-flask-crud) - cloned into [Glenn Paul Bryan Dela Cruz's Repository](https://github.com/pooblobb/it6-final-project/tree/add-authors-api) [Block 1]  
 [Flask Todo List App](https://github.com/Ishan2608/Flask-Todo-List) - cloned into [Cymon Jezrel's Repository](https://github.com/zel-06/Flask-Todo-List-Features/tree/master) [IT6 Block 1]  
 [Python-Live-Chat-App](https://github.com/techwithtim/Python-Live-Chat-App) - cloned into [Charles Darwin G. Duerme's Repository](https://github.com/charlesss00/Python-Live-Chat-App.git) - [block 1]  
-[wordle-flask](https://github.com/CodeStrate/wordle-flask) - cloned into [Obed G. De Belen's Repository](https://github.com/Deversor/wordle-flask/tree/added-feature) [Block 1]
+[wordle-flask](https://github.com/CodeStrate/wordle-flask) - cloned into [Obed G. De Belen's Repository](https://github.com/Deversor/wordle-flask/tree/added-feature) [Block 1]  
+[Flask-Photo-Gallery App](https://github.com/sumairz/photo-gallery-python-flask) cloned into [Norelyn Madia's Repository] (https://github.com/NexieMadia23/photo-gallery-python-flask/tree/main) -[Block 2]

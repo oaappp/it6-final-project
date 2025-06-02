@@ -49,3 +49,4 @@
 [Flask_Book_Library](https://github.com/MohammadSatel/Flask_Book_Library) - cloned into [Jonathan Fajiculay](https://github.com/jon-faji/Flask_Book_Library) [Block 1]  
 [microblog](https://github.com/grrctlpd/microblog.git) - cloned into [Gerrict Lapida](https://github.com/grrctlpd/microblog.git) [Block 1]  
 [flask-sample-app](https://github.com/ubc/flask-sample-app.git) - cloned into [Peter Joshua P. Pagunsan's Repository](https://github.com/myxed213/flask-sample-app.git) [block 3]  
+[QR Code Generator](https://github.com/Spidy20/ImageToPdf_Website) - cloned into [Francis William Garcia's Repository](https://github.com/pranswg/QR_Code_website_Flask/tree/categorywithrestapi) - [Block 2]  

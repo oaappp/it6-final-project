@@ -43,3 +43,4 @@
 [Sample-CRUD-Python-Flask-SQLite](https://github.com/ShehaniWageesha/Sample-CRUD-Python-Flask-SQLite.git) - cloned into [Clifford R. Caabay](https://github.com/Cliffordss/Sample-CRUD-Python-Flask-SQLite.git) - [block 1]  
 [Story-Title-description](https://github.com/gurkanakdeniz/example-flask-crud)- cloned into [Marie Cristel Bugayong Repository](https://github.com/Kuriseteru0/Flask-Final-laboratory)- [Block-1]  
 [Youtube Downloader](https://github.com/luqmannulhakimm/flasktube-ytdownloader.git) - cloned into [Jonard Laurence Ganeso] (https://github.com/jonardlaurence/ipt_finale) [IT6 Block 3]
+[Flask-Todo-App](https://github.com/asthasharma98/Flask-Todo-App.git) - cloned into [Mary Dianne Millendez](https://github.com/Daiyukisen/Flask-Todo-App.git) - [block 2]  

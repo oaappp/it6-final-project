@@ -45,3 +45,4 @@
 [Youtube Downloader](https://github.com/luqmannulhakimm/flasktube-ytdownloader.git) - cloned into [Jonard Laurence Ganeso] (https://github.com/jonardlaurence/ipt_finale) [IT6 Block 3]
 [Flask-Todo-App](https://github.com/asthasharma98/Flask-Todo-App.git) - cloned into [Mary Dianne Millendez](https://github.com/Daiyukisen/Flask-Todo-App.git) - [block 2]  
 [Flask-Todo-App](https://github.com/Demoen/To-Do-List-Python-Flask-App.git) - cloned into [Ian Jan Julito Aborot's Repository](https://github.com/Aborot11/To-Do-List-Python-Flask-App.git) - [block 2]  
+[Flask-inventory-app](https://github.com/shraite7/flask-inventory-app) - cloned into [Marco Dela Serna's Repository](https://github.com/sudo-marco-dev/FINAL-drill-IT6) - [block 3]  

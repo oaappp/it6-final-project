@@ -39,4 +39,5 @@
 [Flask Todo List App](https://github.com/Ishan2608/Flask-Todo-List) - cloned into [Cymon Jezrel's Repository](https://github.com/zel-06/Flask-Todo-List-Features/tree/master) [IT6 Block 1]  
 [Python-Live-Chat-App](https://github.com/techwithtim/Python-Live-Chat-App) - cloned into [Charles Darwin G. Duerme's Repository](https://github.com/charlesss00/Python-Live-Chat-App.git) - [block 1]  
 [wordle-flask](https://github.com/CodeStrate/wordle-flask) - cloned into [Obed G. De Belen's Repository](https://github.com/Deversor/wordle-flask/tree/added-feature) [Block 1]  
-[Flask-Photo-Gallery App](https://github.com/sumairz/photo-gallery-python-flask) cloned into [Norelyn Madia's Repository] (https://github.com/NexieMadia23/photo-gallery-python-flask/tree/main) -[Block 2]
+[Flask-Photo-Gallery App](https://github.com/sumairz/photo-gallery-python-flask) cloned into [Norelyn Madia's Repository] (https://github.com/NexieMadia23/photo-gallery-python-flask/tree/main) -[Block 2]  
+[Sample-CRUD-Python-Flask-SQLite](https://github.com/ShehaniWageesha/Sample-CRUD-Python-Flask-SQLite.git) - cloned into [Clifford R. Caabay](https://github.com/Cliffordss/Sample-CRUD-Python-Flask-SQLite.git) - [block 1]

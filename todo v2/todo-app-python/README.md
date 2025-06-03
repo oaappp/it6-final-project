@@ -26,7 +26,7 @@ This project upgrades a basic Flask To-Do app into a more robust and extensible 
 
 ## Setup & Running:
 
-1.  **Clone**: `git clone https://github.com/JmRILKayn/flask-todo.git` (Use this URL for your fork or your professor's if your changes are merged to `main`)
+1.  **Clone**: `https://github.com/JmRILKayn/todo-app-python.git` (Use this URL for your fork or your professor's if your changes are merged to `main`)
     * `cd flask-todo`
 2.  **Env**: `python -m venv venv` & `venv\Scripts\activate` (on Windows) or `source venv/bin/activate` (on Unix/macOS)
 3.  **Install**: `pip install Flask Flask-SQLAlchemy pytest pytest-flask pytest-cov`
@@ -57,5 +57,5 @@ This project specifically addresses the following technical requirements:
 
 ## Repository Links
 
-- Original Repository: `https://github.com/patrickloeber/flask-todo.git`
-- Forked with Enhancements: `https://github.com/JmRILKayn/flask-todo/tree/feature/api-tags-enhancements`
+- Original Repository: `https://github.com/faizan35/todo-app-python.git`
+- Forked with Enhancements: `https://github.com/JmRILKayn/todo-app-python.git`

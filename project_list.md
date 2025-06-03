@@ -52,4 +52,6 @@
 [QR Code Generator](https://github.com/Spidy20/ImageToPdf_Website) - cloned into [Francis William Garcia's Repository](https://github.com/pranswg/QR_Code_website_Flask/tree/categorywithrestapi) - [Block 2]  
 [MiLocalShare](https://github.com/InferiorAK/MiLocalShare) - cloned into [Prince Charls B. Bustane](https://github.com/Shaaaaadork/MiLocalShare) - [Block 1]  
 [car-dealership-storage-management](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - cloned into [Dirk Ydrei Herrera's Respitory](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - [block 3]  
+[02_Name_Card_website](https://github.com/artursniegowski/Python_Flask_Projects:master) - cloned into [Jun Mark A. Brilliantes's Repository](https://github.com/angelica-11/Python_Flask_Projects) - [block 3]
 
+[07_Virtual_BookShelf](https://github.com/artursniegowski/Python_Flask_Projects:master) - cloned into [Angelica B. Bande's Rrepository](https://github.com/angelica-11/Python_Flask_Projects) - [Block 3]

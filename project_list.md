@@ -43,7 +43,6 @@
 [Sample-CRUD-Python-Flask-SQLite](https://github.com/ShehaniWageesha/Sample-CRUD-Python-Flask-SQLite.git) - cloned into [Clifford R. Caabay](https://github.com/Cliffordss/Sample-CRUD-Python-Flask-SQLite.git) - [block 1]  
 [Story-Title-description](https://github.com/gurkanakdeniz/example-flask-crud)- cloned into [Marie Cristel Bugayong Repository](https://github.com/Kuriseteru0/Flask-Final-laboratory)- [Block-1]  
 [Youtube Downloader](https://github.com/luqmannulhakimm/flasktube-ytdownloader.git) - cloned into [Jonard Laurence Ganeso](https://github.com/jonardlaurence/ipt_finale) [IT6 Block 3]  
-[Flask-WordCount](https://github.com/piyush335/Flask-WordCount.git) - cloned into [Mary Dianne Millendez](https://github.com/Daiyukisen/Flask-WordCount.git) - [block 2]  
 [Flask-Todo-App](https://github.com/Demoen/To-Do-List-Python-Flask-App.git) - cloned into [Ian Jan Julito Aborot's Repository](https://github.com/Aborot11/To-Do-List-Python-Flask-App.git) - [block 2]  
 [Flask-inventory-app](https://github.com/shraite7/flask-inventory-app) - cloned into [Marco Dela Serna's Repository](https://github.com/sudo-marco-dev/FINAL-drill-IT6) - [block 3]  
 [Flask_Book_Library](https://github.com/MohammadSatel/Flask_Book_Library) - cloned into [Jonathan Fajiculay](https://github.com/jon-faji/Flask_Book_Library) [Block 1]  
@@ -54,4 +53,5 @@
 [car-dealership-storage-management](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - cloned into [Dirk Ydrei Herrera's Respitory](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - [block 3]  
 [Flask-Students-Management-App](https://github.com/Qoslaye/Flask-Students-Management-App.git) - cloned into [Althea Lauren Villa](https://github.com/Althea09-gif/Flask-Students-Management-App.git) - [block 2]  
 [emotion-detector](https://github.com/Nooraldin2001/Final-Project-Emotion-Detector) - cloned into [Vince Alshie Rivera's Repository](https://github.com/snyb1010/Final-Project-Emotion-Detector) - [block 2]  
+[Flask-WordCount](https://github.com/piyush335/Flask-WordCount.git) - cloned into [Mary Dianne Millendez](https://github.com/Daiyukisen/Flask-WordCount.git) - [block 2]  
 

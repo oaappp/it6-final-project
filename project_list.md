@@ -53,5 +53,5 @@
 [MiLocalShare](https://github.com/InferiorAK/MiLocalShare) - cloned into [Prince Charls B. Bustane](https://github.com/Shaaaaadork/MiLocalShare) - [Block 1]  
 [car-dealership-storage-management](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - cloned into [Dirk Ydrei Herrera's Respitory](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - [block 3]  
 [Flask-Students-Management-App](https://github.com/Qoslaye/Flask-Students-Management-App.git) - cloned into [Althea Lauren Villa](https://github.com/Althea09-gif/Flask-Students-Management-App.git) - [block 2]  
-
+[emotion-detector](https://github.com/Nooraldin2001/Final-Project-Emotion-Detector) - cloned into [Vince Alshie Rivera's Repository](https://github.com/snyb1010/Final-Project-Emotion-Detector) - [block 2]  
 

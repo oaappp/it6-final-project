@@ -55,6 +55,6 @@
 [emotion-detector](https://github.com/Nooraldin2001/Final-Project-Emotion-Detector) - cloned into [Vince Alshie Rivera's Repository](https://github.com/snyb1010/Final-Project-Emotion-Detector) - [block 2]  
 [Flask-WordCount](https://github.com/piyush335/Flask-WordCount.git) - cloned into [Mary Dianne Millendez](https://github.com/Daiyukisen/Flask-WordCount.git) - [block 2]  
 [https://github.com/psychopath-Alien/BloodBankAPI.git) - cloned into [Richo Baterzal's Repository](https://github.com/baterricho/IPT_FINAL-NA.git) - [block 3]  
-[enhanced-flask-todo-app](https://github.com/faizan35/todo-app-python.git) - cloned into [Jose Miguel Mayores' Repository](https://github.com/JmRILKayn/todo-app-python.git) - [block 1] 
+[enhanced-flask-todo-app](https://github.com/faizan35/todo-app-python.git) - cloned into [Jose Miguel Mayores' Repository](https://github.com/JmRILKayn/todo-app-python.git) - [block 1]  
 [Flask-Python-E-Commerce-Website](https://github.com/haxamxam/Flask-Python-E-Commerce-Website.git) - cloned into [Maverick Miguel A. Torres' Repository](https://github.com/wyatobii/Flask-Python-E-Commerce-Website.git) - [block 3]  
 

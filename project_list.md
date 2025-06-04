@@ -43,7 +43,6 @@
 [Sample-CRUD-Python-Flask-SQLite](https://github.com/ShehaniWageesha/Sample-CRUD-Python-Flask-SQLite.git) - cloned into [Clifford R. Caabay](https://github.com/Cliffordss/Sample-CRUD-Python-Flask-SQLite.git) - [block 1]  
 [Story-Title-description](https://github.com/gurkanakdeniz/example-flask-crud)- cloned into [Marie Cristel Bugayong Repository](https://github.com/Kuriseteru0/Flask-Final-laboratory)- [Block-1]  
 [Youtube Downloader](https://github.com/luqmannulhakimm/flasktube-ytdownloader.git) - cloned into [Jonard Laurence Ganeso](https://github.com/jonardlaurence/ipt_finale) [IT6 Block 3]  
-[Flask-Todo-App](https://github.com/asthasharma98/Flask-Todo-App.git) - cloned into [Mary Dianne Millendez](https://github.com/Daiyukisen/Flask-Todo-App.git) - [block 2]  
 [Flask-Todo-App](https://github.com/Demoen/To-Do-List-Python-Flask-App.git) - cloned into [Ian Jan Julito Aborot's Repository](https://github.com/Aborot11/To-Do-List-Python-Flask-App.git) - [block 2]  
 [Flask-inventory-app](https://github.com/shraite7/flask-inventory-app) - cloned into [Marco Dela Serna's Repository](https://github.com/sudo-marco-dev/FINAL-drill-IT6) - [block 3]  
 [Flask_Book_Library](https://github.com/MohammadSatel/Flask_Book_Library) - cloned into [Jonathan Fajiculay](https://github.com/jon-faji/Flask_Book_Library) [Block 1]  
@@ -52,4 +51,9 @@
 [QR Code Generator](https://github.com/Spidy20/ImageToPdf_Website) - cloned into [Francis William Garcia's Repository](https://github.com/pranswg/QR_Code_website_Flask/tree/categorywithrestapi) - [Block 2]  
 [MiLocalShare](https://github.com/InferiorAK/MiLocalShare) - cloned into [Prince Charls B. Bustane](https://github.com/Shaaaaadork/MiLocalShare) - [Block 1]  
 [car-dealership-storage-management](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - cloned into [Dirk Ydrei Herrera's Respitory](https://github.com/yuul-b-alwright/car-dealership-storage-management.git) - [block 3]  
+[Flask-Students-Management-App](https://github.com/Qoslaye/Flask-Students-Management-App.git) - cloned into [Althea Lauren Villa](https://github.com/Althea09-gif/Flask-Students-Management-App.git) - [block 2]  
+[emotion-detector](https://github.com/Nooraldin2001/Final-Project-Emotion-Detector) - cloned into [Vince Alshie Rivera's Repository](https://github.com/snyb1010/Final-Project-Emotion-Detector) - [block 2]  
+[Flask-WordCount](https://github.com/piyush335/Flask-WordCount.git) - cloned into [Mary Dianne Millendez](https://github.com/Daiyukisen/Flask-WordCount.git) - [block 2]  
+[https://github.com/psychopath-Alien/BloodBankAPI.git) - cloned into [Richo Baterzal's Repository](https://github.com/baterricho/IPT_FINAL-NA.git) - [block 3]  
 [enhanced-flask-todo-app](https://github.com/faizan35/todo-app-python.git) - cloned into [Jose Miguel Mayores' Repository](https://github.com/JmRILKayn/todo-app-python.git) - [block 1] 
+

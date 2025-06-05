@@ -63,4 +63,4 @@
 [Calendar Event Manager with Flask and Full Calendar](https://github.com/sukeesh/flask-calendar.git) -  cloned into [Juliet Lou Tumalac's Repository](https://github.com/jiyu0903/flask-calendar.git) - [Block 3]  
 [07_Virtual_BookShelf](https://github.com/artursniegowski/Python_Flask_Projects) - cloned into [Angelica B. Bande's Rrepository](https://github.com/angelica-11/Python_Flask_Projects) - [Block 3]  
 [flask-notes-app](https://github.com/yatinbayya/flask-notes-app.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/flask-notes-app.git)
-[Puppy-Adaptation-PythonFlask](https://github.com/grv231/Puppy-adoption-PythonFlask) - clone into [Diether L. Abunto's Repository](https://github.com/D13TH3/Puppy-adoption-PythonFlask) - [Block3]
+[Puppy-Adaptation-PythonFlask](https://github.com/grv231/Puppy-adoption-PythonFlask.git) - clone into [Diether L. Abunto's Repository](https://github.com/D13TH3/Puppy-adoption-PythonFlask.git) - [Block3]

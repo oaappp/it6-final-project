@@ -64,4 +64,5 @@
 [flask-notes-app](https://github.com/yatinbayya/flask-notes-app.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/flask-notes-app.git)  
 [Flask-Calendar Event Manager](https://github.com/sukeesh/flask-calendar.git) - cloned into [Juliet Lou Tumalac's Repository](https://github.com/jiyu0903/flask-calendar.git)- [Block 3]  
 [full-stack-Flask-Notes](https://github.com/SHOCKWAVE07/fullStackFlaskNotes.git) - cloned into [Edbert S. Isabelo's Repository](https://github.com/niczed/fullStackFlaskNotes.git) -[Block 3]
+[Employee](https://github.com/USSEndeavour/Employee.git) - cloned into [Mark Rian Fernandez's Repository](https://github.com/markrianfernandez/Employee-List.git) - [block 3]  
 

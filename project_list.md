@@ -62,5 +62,5 @@
 [Visitor-Management-System](https://github.com/sivaramalmelo/Visitor-Management.git) - cloned into [Owen Christian Sanchez's Respitory](https://github.com/krs7000/Visitor-Management-System.git) - [block 3]  
 [Calendar Event Manager with Flask and Full Calendar](https://github.com/sukeesh/flask-calendar.git) -  cloned into [Juliet Lou Tumalac's Repository](https://github.com/jiyu0903/flask-calendar.git) - [Block 3]  
 [07_Virtual_BookShelf](https://github.com/artursniegowski/Python_Flask_Projects) - cloned into [Angelica B. Bande's Rrepository](https://github.com/angelica-11/Python_Flask_Projects) - [Block 3]  
-[flask-notes-app](https://github.com/yatinbayya/flask-notes-app.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/flask-notes-app.git)
+[flask-notes-app](https://github.com/yatinbayya/flask-notes-app.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/flask-notes-app.git)  
 [Flask-Calendar Event Manager](https://github.com/sukeesh/flask-calendar.git) - cloned into [Juliet Lou Tumalac's Repository](https://github.com/jiyu0903/flask-calendar.git)

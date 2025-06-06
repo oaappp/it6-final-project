@@ -65,4 +65,5 @@
 [Flask-Calendar Event Manager](https://github.com/sukeesh/flask-calendar.git) - cloned into [Juliet Lou Tumalac's Repository](https://github.com/jiyu0903/flask-calendar.git)- [Block 3]  
 [full-stack-Flask-Notes](https://github.com/SHOCKWAVE07/fullStackFlaskNotes.git) - cloned into [Edbert S. Isabelo's Repository](https://github.com/niczed/fullStackFlaskNotes.git) -[Block 3]
 [Employee](https://github.com/USSEndeavour/Employee.git) - cloned into [Mark Rian Fernandez's Repository](https://github.com/markrianfernandez/Employee-List.git) - [block 3]  
+[Puppy-Adaption-PythonFlask](https://github.com/grv231/Puppy-adoption-PythonFlask.git) - clone into [Diether L. Abunto's Repository](https://github.com/D13TH3/Puppy-adoption-PythonFlask.git) - [Block3]  
 
